@@ -1,6 +1,6 @@
-<h1 style="font-family: courier;" align="center"> satshakit</h1>
+<h1 style="font-family: courier;" align="center"> satshakit micro</h1>
 <p align="center">
-<img src="media/readme/satshakites.jpg" width="70%">
+<img src="media/satshakit_micro_2.jpg" width="70%">
 <div align="center"><i>An improved & fabbable 100% Arduino IDE/libraries compatible board.</i></div>
 </p>  
 
@@ -23,7 +23,7 @@ satshakit boards
 
 There are different kinds of **satshakit boards** depending on the **fabrication technique** you will use to make them, or on the **size** of the board. 
 
-<img src="media/readme/satshakit_versions.jpg" width="70%">
+<img src="media/satshakit_versions.jpg" width="70%">
 
 Here is a comparison table about different satshakit boards:
 
@@ -92,13 +92,13 @@ To program a satshakit micro, you have always to use a programmer, and use the *
 
 And here is the Arduino pinout of the satshakit micro:
 
-<img src="media/satshakit_micro/satshakit_micro_arduino_pin_mapping.png" width="60%">
+<img src="media/satshakit_micro_arduino_pin_mapping.png" width="60%">
 
 What's in the repo
 --
-- **[docs](https://github.com/satshas/satshakit/tree/master/docs)**: BOM files for Farnell
-- **[egle projects](https://github.com/satshas/satshakit/tree/master/eagle_projects)**: eagle projects of satshakit
-- **[media](https://github.com/satshas/satshakit/tree/master/media)**: svg of satshakits, connections schemas, images for cnc milling machine and fiber laser cutter, other images
+- **[docs](https://github.com/satshakit/satshakit-micro/tree/master/docs)**: BOM files for Farnell
+- **[egle projects](https://github.com/satshakit/satshakit-micro/tree/master/eagle_projects/satshakit_micro)**: eagle projects of satshakit
+- **[media](https://github.com/satshakit/satshakit-micro/tree/master/media)**: svg of satshakits, connections schemas, images for cnc milling machine and fiber laser cutter, other images
 
 Authors
 --
