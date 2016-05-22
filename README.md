@@ -48,15 +48,15 @@ Here is the **satshakit micro board**:
 
 **downloads (right click, download as)**
 
-- [satshakit micro svg](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_micro/satshakit_micro.svg)
-- [satshakit micro internal png](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_micro/satshakit_micro_internal.png)
-- [satshakit micro holes png](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_micro/satshakit_micro_holes.png)
-- [satshakit micro cut png](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_micro/satshakit_micro_cut.png)
-- [satshakit micro cut tips png](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_micro/satshakit_micro_cut_tips.png)
-- [satshakit micro schematic](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_micro/satshakit_micro.sch)
-- [satshakit micro board](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_micro/satshakit_micro.brd)
-- [satshakit micro BOM Open Document](https://github.com/satshas/satshakit/raw/master/docs/satshakit_micro/satshakit_micro_BOM.ods)
-- [satshakit micro BOM Excel](https://github.com/satshas/satshakit/raw/master/docs/satshakit_micro/satshakit_micro_BOM.xlsx)
+- [satshakit micro svg](https://raw.githubusercontent.com/satshakit/satshakit-micro/master/media/satshakit_micro.svg)
+- [satshakit micro internal png](https://raw.githubusercontent.com/satshakit/satshakit-micro/master/media/satshakit_micro_internal.png)
+- [satshakit micro holes png](https://github.com/satshakit/satshakit-micro/blob/master/media/satshakit_micro_holes.png)
+- [satshakit micro cut png](https://github.com/satshakit/satshakit-micro/blob/master/media/satshakit_micro_cut.png)
+- [satshakit micro cut tips png](https://github.com/satshakit/satshakit-micro/blob/master/media/satshakit_micro_cut_tips.png)
+- [satshakit micro schematic](https://raw.githubusercontent.com/satshakit/satshakit-micro/master/eagle_projects/satshakit_micro/satshakit_micro.sch)
+- [satshakit micro board](https://raw.githubusercontent.com/satshakit/satshakit-micro/master/eagle_projects/satshakit_micro/satshakit_micro.brd)
+- [satshakit micro BOM Open Document](https://github.com/satshakit/satshakit-micro/raw/master/docs/satshakit_micro_BOM.ods)
+- [satshakit micro BOM Excel](https://github.com/satshakit/satshakit-micro/raw/master/docs/satshakit_micro_BOM.xlsx)
 
 **media**
 
