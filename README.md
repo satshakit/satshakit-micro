@@ -77,9 +77,9 @@ To do this you need to use a **programmer**, for example another Arduino or FabI
 
 Here are the connection schemas for programming **satshakit micro**:
 
-<img src="media/satshakit_micro/satshakit_micro_arduino_programming.png" width="60%">
+<img src="media/satshakit_micro_arduino_programming.png" width="60%">
 
-<img src="media/satshakit_micro/satshakit_micro_fabisp_programming.png" width="60%">
+<img src="media/satshakit_micro_fabisp_programming.png" width="60%">
 
 Once everything is connected, follow these steps to upload Arduino bootloader:
 
